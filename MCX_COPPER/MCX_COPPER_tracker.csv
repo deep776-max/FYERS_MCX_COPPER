@@ -1,0 +1,3 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+MCX_COPPER_20261123_212514,COPPER,COPPER,10,False,True,1090,1520,5S|1|5|60|1D
+MCX_COPPER_20261123_220245,COPPER,COPPER,10,False,True,1090,1520,5S|1|5|60|1D
